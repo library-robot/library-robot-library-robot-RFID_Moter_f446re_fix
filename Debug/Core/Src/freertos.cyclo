@@ -1,0 +1,8 @@
+../Core/Src/freertos.c:91:6:vApplicationGetIdleTaskMemory	1
+../Core/Src/freertos.c:105:6:MX_FREERTOS_Init	1
+../Core/Src/freertos.c:164:6:StartDefaultTask	1
+../Core/Src/freertos.c:184:6:StartRfidExecuteTask	1
+../Core/Src/freertos.c:206:6:StartTagNumTransmitTask	2
+../Core/Src/freertos.c:231:6:rc522_readTask	3
+../Core/Src/freertos.c:258:6:controlmotor	3
+../Core/Src/freertos.c:282:6:StarttransmitTask2	2
